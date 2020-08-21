@@ -9,17 +9,17 @@ $(document).ready(function(){
 })
 
 //Business Logic
-function rogSays (number) {
-  const numArray =[]
-  for (i = 0; i <= number; i++) {
-    if(i.includes(3)) {
-      numArray.push("won't you be my neighbor?")
+function rogSays(number) {
+  const numArray = []
+  for (let i = 0; i <= number; i++) {
+    if([i].includes(3) || i === 13 || i >= 30 && i < 40) {
+      numArray.push(" Won't you be my neighbor?")
     }
-    else if (i === 2) {
-      numArray.push("Boop!")
+    else if ([i].includes (2) || i >= 20 && i < 30) {
+      numArray.push(" Boop!")
     }
-    else if (i === 1) {
-      numArray.push("Beep!")
+    else if ([i].includes (1) || i >= 10 && i < 20) {
+      numArray.push(" Beep!")
     }
     else {
       numArray.push(" " + i);}
