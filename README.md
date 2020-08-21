@@ -35,7 +35,7 @@ This is a webpage created as part of Epicodus friday project to practice JavaScr
 There are no known bugs at the time.
 
 ## Contact/Support
-For support/feedback you can Mark via email: mark.tiapkov@gmail.com
+For support/feedback you can Mark via [email](mailto:mark.tiapkov@gmail.com)
 
 ## Technologies Used
 * HTML5
@@ -45,6 +45,6 @@ For support/feedback you can Mark via email: mark.tiapkov@gmail.com
 * jQuery
 
 ## License
-This site is licensed under the MIT license
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright © 2020 **_Mark Tiapkov_**
