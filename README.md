@@ -1,3 +1,14 @@
+# Mr.Robo-Rodgers
+
+#### Mr.Robo-Rodgers page created on 8/21/2020
+
+#### By _Mark Tiapkov_
+
+# Description
+This is a webpage created as part of Epicodus friday project to practice JavaScript's loops. User enters and submits a number, the webpage will "talk" back to the user, returning a range of numbers starting from 0 to the number that was submitted by user. If the number submitted has a 1, 2 or a 3, those numbers will be swaped out for robot-esque responses. 
+
+
+
 Specs
 
 behavior: The program returns a range of numbers from 0 to the users inputted number
