@@ -3,6 +3,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 95%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .form-group {
@@ -12,9 +13,7 @@ body {
 .jumbotron {
   margin: 12px;
   padding: 8px;
-  box-sizing: border-box;
-  border-style: outset;
-  opacity: 90%;
+  background-color:transparent !important;
 }
 
 .card {
@@ -22,3 +21,4 @@ body {
   padding: 8px;
   box-sizing: border-box;
   border-style: outset;
+  opacity: 95%;

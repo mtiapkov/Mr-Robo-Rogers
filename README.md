@@ -31,6 +31,8 @@ This is a webpage created as part of Epicodus friday project to practice JavaScr
 * Run index.html
 * See product in your browser window
 
+Alternatively - See the webpage live by visting https://mtiapkov.github.io/mr-robo-rogers/
+
 ## Bugs/Issues
 There are no known bugs at the time.
 
