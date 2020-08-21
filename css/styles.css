@@ -13,10 +13,11 @@ body {
   margin: 12px;
   padding: 8px;
   box-sizing: border-box;
+  border-style: outset;
 }
 
 .card {
   margin: 12px;
   padding: 8px;
   box-sizing: border-box;
-}
+  border-style: outset;
