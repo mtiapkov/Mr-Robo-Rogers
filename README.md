@@ -1,6 +1,6 @@
-# Mr.Robo-Rodgers
+# Mr.Robo-Rogers
 
-#### Mr.Robo-Rodgers page created on 8/21/2020
+#### Mr.Robo-Rogers page created on 8/21/2020
 
 #### By _Mark Tiapkov_
 
