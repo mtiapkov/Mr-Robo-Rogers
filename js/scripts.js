@@ -1,8 +1,8 @@
 // User Interface Logic
 $(document).ready(function(){
-  $("form#rodgers").submit(function(){
+  $("form#rogers").submit(function(){
     event.preventDefault();
-    const number = $("#number").val()
+    const number = $("#numberInput").val()
     const output = rogSays(number)
     $("#output").text(output);
   })
@@ -14,7 +14,7 @@ function rogSays(number) {
   for (let i = 0; i <= number; i++) {
     let emptyString = i + "";
     if (emptyString.includes(3)) {
-      numArray.push(" Won't you be my neighbor?")
+      numArray.push(" Won't you be my neighbor, "+($("#nameInput").val())+"?");
     }
     else if (emptyString.includes (2)) {
       numArray.push(" Boop!")
