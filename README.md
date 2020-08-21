@@ -15,4 +15,3 @@ page output: "boop"
 behavior - program will swap "3" with "Won't you be my neighbor?" and return in in a string
 user input: "3"
 page output: "won't you be my neighbor?"
-
